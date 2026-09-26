@@ -17,13 +17,13 @@
 
 ```python
 
- musab = Student(
-    degree   = "BS Computer Science",
-    location = "Bhakkar, Punjab, Pakistan 📍",
-    learning = ["Artificial Intelligence", "Machine Learning",
+ Profile = Student(
+    Degree   = "BS Computer Science",
+    Location = "Bhakkar, Punjab, Pakistan 📍",
+    Learning = ["Artificial Intelligence", "Machine Learning",
                 "LLMs", "Generative AI", "Conversational AI"],
-    building = ["ChatGPT Mini Bot 🤖", "more coming soon..."],
-    goals    = ["Sharpen ML fundamentals",
+    Building = ["ChatGPT Mini Bot 🤖", "more coming soon..."],
+    Goals    = ["Sharpen ML fundamentals",
                 "Go deeper on LLMs",
                 "Build a professional AI/ML portfolio",
                 "Land an internship 🚀"
