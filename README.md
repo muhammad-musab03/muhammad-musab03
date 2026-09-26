@@ -71,8 +71,7 @@ musab = Student(
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammad-musab03&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=c9d1d9&ring_color=39d353" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-musab03&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammad-musab03&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-musab03&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
 
 <img src="https://streak-stats.demolab.com?user=muhammad-musab03&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=196c2e" />
 
