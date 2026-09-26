@@ -16,7 +16,6 @@
 ### 🌱 About Me
 
 ```python
-```python
 PROFILE = {
     "NAME": "Muhammad Musab",
     "DEGREE": "BS Computer Science",
