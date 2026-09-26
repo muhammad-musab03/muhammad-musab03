@@ -16,17 +16,57 @@
 ### 🌱 About Me
 
 ```python
-musab = Student(
-    degree   = "BS Computer Science",
-    location = "Bhakkar, Punjab, Pakistan 📍",
-    learning = ["Artificial Intelligence", "Machine Learning",
-                "LLMs", "Generative AI", "Conversational AI"],
-    building = ["ChatGPT Mini Bot 🤖", "more coming soon..."],
-    goals    = ["Sharpen ML fundamentals",
-                "Go deeper on LLMs",
-                "Build a professional AI/ML portfolio",
-                "Land an internship 🚀"],
-)
+```python
+PROFILE = {
+    "NAME": "Muhammad Musab",
+    "DEGREE": "BS Computer Science",
+    "LOCATION": "Bhakkar, Punjab, Pakistan 📍",
+
+    "FOCUS": "Artificial Intelligence & Machine Learning 🤖",
+
+    "CURRENTLY_LEARNING": [
+        "Python & Python OOP",
+        "C++ & C++ OOP",
+        "NumPy & Pandas",
+        "Matplotlib",
+        "Machine Learning Fundamentals",
+        "Large Language Models (LLMs)",
+        "Generative AI",
+        "Conversational AI"
+    ],
+
+    "BUILDING": [
+        "ChatGPT Mini Bot 🤖",
+        "AI-powered Applications",
+        "Machine Learning Projects",
+        "More Projects Coming Soon..."
+    ],
+
+    "INTERESTS": [
+        "Artificial Intelligence",
+        "LLM Applications",
+        "Generative AI",
+        "Natural Language Processing",
+        "AI Chatbots",
+        "Intelligent Systems"
+    ],
+
+    "GOALS": [
+        "Strengthen ML Fundamentals",
+        "Go Deeper into LLMs",
+        "Build Practical AI Applications",
+        "Create a Professional AI Portfolio",
+        "Gain Real-World Industry Experience",
+        "Contribute to Meaningful AI Projects",
+        "Land an AI/ML Internship 🚀"
+    ],
+
+    "MINDSET": "LEARN → BUILD → EXPERIMENT → IMPROVE 🔥",
+
+    "STATUS": "Currently Learning • Building • Exploring AI 🚀"
+}
+```
+
 ```
 
 ### 🛠️ Tech Stack
