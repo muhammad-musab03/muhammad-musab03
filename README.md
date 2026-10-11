@@ -68,6 +68,7 @@
 | :--- | :--- | :--- |
 | ChatGPT Mini Bot | A small chatbot built while learning AI, LLMs and conversational AI | `Python` |
 | Gemini AI Chatbot | An AI-powered chatbot built while learning Artificial Intelligence, LLMs, Generative AI, and Conversational AI using the Google Gemini API | `Python` `Gemini API` `LLMs` `Generative AI`
+| Pharmacy Stock Management System | A pharmacy management program built using C++ and OOP to manage medicines, stock, and orders | C++, OOP` |
 
 </div>
 
