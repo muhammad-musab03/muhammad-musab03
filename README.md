@@ -70,6 +70,7 @@
 | Gemini AI Chatbot | An AI-powered chatbot built while learning Artificial Intelligence, LLMs, Generative AI, and Conversational AI using the Google Gemini API | `Python` `Gemini API` `LLMs` `Generative AI`
 | Pharmacy Stock Management System | A pharmacy management program built using C++ and OOP to manage medicines, stock, and orders | C++, OOP` |
 | Gemini Conversational AI | A Python-based AI chatbot that uses Google's Gemini API to save and restore conversation history across sessions | `Python`, `Gemini API`, `JSON`, `Conversational AI` |
+|🐺 WOLF AI | An AI-powered chatbot built with Python and Streamlit, featuring conversational memory, persistent chat history, and a modern interactive interface | Python, Streamlit, OpenAI API, JSON, Conversational AI |
 
 </div>
 
