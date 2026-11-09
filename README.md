@@ -26,8 +26,7 @@
     Goals    = ["Sharpen ML fundamentals",
                 "Go deeper on LLMs",
                 "Build a professional AI/ML portfolio",
-                "Land an internship 🚀"
-],
+                "Land an internship 🚀"]
 )
 
 ```
@@ -71,6 +70,7 @@
 | Pharmacy Stock Management System | A pharmacy management program built using C++ and OOP to manage medicines, stock, and orders | C++, OOP` |
 | Gemini Conversational AI | A Python-based AI chatbot that uses Google's Gemini API to save and restore conversation history across sessions | `Python`, `Gemini API`, `JSON`, `Conversational AI` |
 |🐺 WOLF AI | An AI-powered chatbot built with Python and Streamlit, featuring conversational memory, persistent chat history, and a modern interactive interface | Python, Streamlit, OpenAI API, JSON, Conversational AI |
+| 🐍 SNAKES AI | An AI-powered RAG document assistant that summarizes PDF documents and answers questions based on their content using AI | Python, Streamlit, Groq API, RAG, LLMs, PDF Processing |
 
 </div>
 
