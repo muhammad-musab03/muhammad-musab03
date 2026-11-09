@@ -71,6 +71,7 @@
 | Gemini Conversational AI | A Python-based AI chatbot that uses Google's Gemini API to save and restore conversation history across sessions | `Python`, `Gemini API`, `JSON`, `Conversational AI` |
 |🐺 WOLF AI | An AI-powered chatbot built with Python and Streamlit, featuring conversational memory, persistent chat history, and a modern interactive interface | Python, Streamlit, OpenAI API, JSON, Conversational AI |
 | 🐍 SNAKES AI | An AI-powered RAG document assistant that summarizes PDF documents and answers questions based on their content using AI | Python, Streamlit, Groq API, RAG, LLMs, PDF Processing |
+| 🦅 NEXORA AI | An AI-powered chatbot and RAG document assistant that answers questions, explains concepts, summarizes information, and interacts with PDF, Word, and text documents using AI | Python, Streamlit, Groq API, RAG, LLMs, ChromaDB, Conversational AI |
 
 </div>
 
